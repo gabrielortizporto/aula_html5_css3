@@ -16,7 +16,7 @@ Aula de como usar HTML5 e CSS3
 
 </header>
 
-<footer> Desenvolvido por Gabriel Porto </footer>
+<footer> <h4> Desenvolvido por Gabriel Porto </h4> </footer>
 
 </body>
 </html>
