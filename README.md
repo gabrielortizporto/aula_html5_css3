@@ -4,14 +4,14 @@ Aula de como usar HTML5 e CSS3
 <html lang = "pt-br">
 <head> 
 <meta charset = "urf-8">
- <h2> <stromg> Futebol e cerveja </strong> </h2>
+ <h1> <stromg> Futebol e cerveja </strong> </h1>
  
 </head>
 
 <body>
 <p> Página de futebol e cerveja </p>
 <header> 
-<h1> Minha página de futebol e cerveja</h1>
+<h3> Minha página de futebol e cerveja</h3>
 <p> Conheça todos os nossas camisas de futebol e rótulos de cervejas </p>
 
 </header>
