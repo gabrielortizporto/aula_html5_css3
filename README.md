@@ -4,7 +4,8 @@ Aula de como usar HTML5 e CSS3
 <html lang = "pt-br">
 <head> 
 <meta charset = "urf-8">
-<title> Futebol e cerveja </title>
+<title> Futebol e cerveja 
+  </title>
 </head>
 
 <body>
