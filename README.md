@@ -12,7 +12,7 @@ Aula de como usar HTML5 e CSS3
 <p> Página de futebol e cerveja </p>
 <header> 
 <h3> Minha página de futebol e cerveja</h3>
-<p> Conheça todos os nossas camisas de futebol e rótulos de cervejas </p>
+<p> Conheça todos as nossas camisas de futebol e rótulos de cervejas </p>
 
 </header>
 
