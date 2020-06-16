@@ -24,22 +24,23 @@ Aula de como usar HTML5 e CSS3
 </header>
 
 <section id= "Limpeza">  
-<h3> Limpeza </h3> <br>
+<h3> Limpeza </h3> 
 <p> Oferecemos serviços de limpezas de placas e módulos fotovolaticos </p>
+<img src='img/limpeza.jpg'>
     </section>
 
 <section id= "Gerenciamento">  
-        <h3> Gerenciamento </h3> <br>
+        <h3> Gerenciamento </h3> 
         <p> Oferecemos serviços de gerenciamento de placas de energia solar </p>
+        <img src='img/monitoramento.jpg'>
             </section>
 <section id= "Manutenção">  
-         <h3> Manutenção </h3> <br>
+         <h3> Manutenção </h3> 
          <p> Oferecemos serviços de gerenciamento de placas de energia solar </p>
-         </section>
+         <img src='img/manutencao.jpg'> 
+        </section>
 
 <footer> <h4> Desenvolvido por Gabriel Porto </h4> </footer>
 
 </body>
 </html>
-
-
